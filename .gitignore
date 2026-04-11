@@ -4,3 +4,4 @@ node_modules/
 # Ficheiros de sistema do Mac/Windows (Opcional, mas recomendado)
 .DS_Store
 Thumbs.db
+.env

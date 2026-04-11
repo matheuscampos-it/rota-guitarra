@@ -4,8 +4,8 @@ const { GoogleGenAI } = require('@google/genai');
 const readline = require('readline/promises');
 const { execSync } = require('child_process');
 
-// ⚠️ COLE SUA CHAVE DE API AQUI
-const GEMINI_API_KEY = 'AIzaSyAOOCbzkECqUPnQrNqodyNdns7Z70-8imw'; 
+require('dotenv').config();
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const DB_PATH = './data/roadieDb.json';
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
