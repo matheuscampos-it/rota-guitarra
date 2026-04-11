@@ -5,8 +5,7 @@ const DB_PATH = './data/roadieDb.json';
 
 // ⚠️ MÁGICA AQUI: Mude para 'true' para obrigar o robô a apagar os covers antigos e buscar aulas novas.
 // Quando terminar e quiser adicionar músicas no futuro, mude de volta para 'false'.
-const FORCE_OVERWRITE = true; 
-
+const FORCE_OVERWRITE = false;
 async function updateYouTubeIDs() {
     console.log("🎸 A iniciar o Robô de Scraping (Foco em Aulas e Tutoriais)...\n");
 

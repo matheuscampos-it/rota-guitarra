@@ -10470,5 +10470,19 @@
       "treble": 6
     },
     "yt_id": "Jk1VcZW17Lk"
+  },
+  {
+    "title": "Sirens",
+    "artist": "Pearl Jam",
+    "level": 3,
+    "tech": "Arpejos melódicos com notas sustentadas, acordes limpos e um solo expressivo com bendings.",
+    "equip": "Tagima Sixmart, Amp Meteoro, Digitech Element XP (Presets F15 para base limpa com modulação, F35 para refrão e solo com overdrive clássico)",
+    "dynamic": "Crescente, de suave a moderadamente agressiva, com ênfase na articulação dos arpejos e expressão melódica do solo.",
+    "eq_meteoro": {
+      "bass": 7,
+      "mid": 6,
+      "treble": 7
+    },
+    "yt_id": "7Nu1Paxf6WA"
   }
 ]
