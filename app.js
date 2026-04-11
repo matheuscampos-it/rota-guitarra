@@ -763,4 +763,13 @@ document.addEventListener('DOMContentLoaded', () => {
   if(ps) ps.addEventListener('input', (e) => renderPresetsList(e.target.value));
   window.addEventListener('hashchange', handleRouting);
   handleRouting();
+
+  // Registra o Service Worker para funcionar offline
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(reg => console.log('✅ Service Worker registrado com sucesso!', reg.scope))
+        .catch(err => console.error('❌ Erro ao registrar Service Worker:', err));
+    });
+  }
 });
