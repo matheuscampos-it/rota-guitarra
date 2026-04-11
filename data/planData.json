@@ -1,0 +1,1218 @@
+[
+  {
+    "week": 1,
+    "title": "Semana 1: Primeiros Acordes e Clássicos",
+    "focus": "Mecânica Básica e Músicas de 3 Acordes",
+    "days": [
+      {
+        "icon": "🕷️",
+        "day": "Dia 1",
+        "t1": {
+          "time": "10 Min",
+          "task": "Aquecimento Aranha (1-2-3-4)",
+          "desc": "Toque as cordas soltas com o metrónomo a 60 BPM para aquecer os dedos e criar calos.",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=exercicio+aranha+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Acordes G, C e D",
+          "desc": "Aprenda e memorize os 3 acordes mais importantes do Rock/Pop. Mude entre eles lentamente.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Música: Knockin' On Heaven's Door",
+          "desc": "Use os acordes G, D e C para tocar a base deste clássico do Bob Dylan / Guns N' Roses. Faça uma batida simples para baixo.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=knockin+on+heavens+door+guitar+lesson+chords"
+        }
+      },
+      {
+        "icon": "🧟",
+        "day": "Dia 2",
+        "t1": {
+          "time": "10 Min",
+          "task": "Acordes Em e Am",
+          "desc": "Adicione os dois acordes menores mais usados à sua biblioteca.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Batida Pop/Rock",
+          "desc": "Treine a batida: Baixo, Baixo, Cima, Cima, Baixo. Abafe as cordas para focar apenas na mão direita.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Música: Zombie (The Cranberries)",
+          "desc": "Toque a progressão Em, C, G, D usando a batida Pop/Rock que acabou de aprender.",
+          "pickup": "Chave na Posição 5 (Ponte) - Digitech no preset Clean ou leve Overdrive.",
+          "ytLink": "https://www.youtube.com/results?search_query=zombie+cranberries+guitar+lesson"
+        }
+      },
+      {
+        "icon": "🧱",
+        "day": "Dia 3",
+        "t1": {
+          "time": "10 Min",
+          "task": "Transições Rápidas",
+          "desc": "Mude de Em para C sem parar a mão direita. O metrónomo não perdoa atrasos!",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Wonderwall (Oasis)",
+          "desc": "Aprenda a progressão base (Em7, G, Dsus4, A7sus4). O segredo aqui é que os dedos 3 e 4 quase nunca saem das cordas de baixo!",
+          "pickup": "Chave na Posição 4 (Braço + Meio) para imitar violão.",
+          "ytLink": "https://www.youtube.com/results?search_query=wonderwall+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Prática: Wonderwall",
+          "desc": "Tente encaixar a batida contínua na progressão que aprendeu.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🌶️",
+        "day": "Dia 4",
+        "t1": {
+          "time": "10 Min",
+          "task": "Revisão de Acordes (Am, F7M, C, G)",
+          "desc": "O F7M é uma versão fácil do Fá Maior sem pestana. Pratique essa sequência circular.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Otherside (RHCP)",
+          "desc": "O verso de Otherside usa exatamente essa sequência (Am, F, C, G). Pratique no andamento original.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) - Para um som mais estalado.",
+          "ytLink": "https://www.youtube.com/results?search_query=otherside+rhcp+chords+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "O Riff de Otherside",
+          "desc": "Tente tocar o pequeno riff de introdução nota por nota nas cordas graves.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🏆",
+        "day": "Dia 5",
+        "t1": {
+          "time": "10 Min",
+          "task": "Aquecimento Geral",
+          "desc": "Passe pelos acordes abertos tocando 4 vezes para baixo em cada um.",
+          "pickup": "Posição Livre"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "O Seu Primeiro Cover",
+          "desc": "Escolha entre Knockin' on Heaven's Door ou Zombie e toque a música inteira, do início ao fim, junto com o áudio original no YouTube.",
+          "pickup": "Ajuste conforme a música"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Roadie Local",
+          "desc": "Filtre músicas de Nível 1 no Roadie Local. Descubra quantas músicas consegue tocar apenas com os acordes que já sabe.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Semana 2: O Peso do Punk e Grunge",
+    "focus": "Power Chords, Distorção e Palm Muting",
+    "days": [
+      {
+        "icon": "⚡",
+        "day": "Dia 6",
+        "t1": {
+          "time": "10 Min",
+          "task": "Formato do Power Chord",
+          "desc": "Aprenda a formar o Power Chord de 2 dedos nas cordas E (Mi) e A (Lá). O segredo do Rock pesado está aqui.",
+          "pickup": "Chave na Posição 5 (Ponte) - Distorção ligada!",
+          "ytLink": "https://www.youtube.com/results?search_query=como+tocar+power+chords+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Brain Stew (Green Day)",
+          "desc": "A música perfeita para treinar a descida de Power Chords na corda Mi: A5, G5, F#5, F5, E5.",
+          "pickup": "Chave na Posição 5 (Ponte) + Digitech Preset Grunge/Dist.",
+          "ytLink": "https://www.youtube.com/results?search_query=brain+stew+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Abafamento entre acordes",
+          "desc": "Em Brain Stew, pare o som completamente (abafando com a mão direita) entre cada palhetada.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🤘",
+        "day": "Dia 7",
+        "t1": {
+          "time": "10 Min",
+          "task": "A Técnica do Palm Muting",
+          "desc": "Abafe as cordas perto da ponte com a mão direita. Faça batidas repetidas em E5 criando aquele som percussivo (Chug-chug).",
+          "pickup": "Chave na Posição 5 (Ponte)",
+          "ytLink": "https://www.youtube.com/results?search_query=como+fazer+palm+muting+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Basket Case (Green Day)",
+          "desc": "Aplique o Palm Muting na progressão rápida de Power Chords. É um excelente treino de resistência para a mão direita.",
+          "pickup": "Chave na Posição 5 (Ponte) - Preset Punk Rock.",
+          "ytLink": "https://www.youtube.com/results?search_query=basket+case+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Abertura e Fechamento",
+          "desc": "Alterne: 1 compasso abafado (Palm Mute) e 1 compasso aberto (sem abafar).",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "👽",
+        "day": "Dia 8",
+        "t1": {
+          "time": "10 Min",
+          "task": "Power Chords na 5ª Corda",
+          "desc": "Mude o formato para a corda A (Lá). Cuidado para não deixar a corda 6 (Mi) soar. O dedo indicador deve encostar levemente nela para a calar.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Smells Like Teen Spirit (Nirvana)",
+          "desc": "A introdução icónica. Pula da corda 6 para a corda 5: F5 -> Bb5 -> G#5 -> Db5.",
+          "pickup": "Chave na Posição 5 (Ponte)",
+          "ytLink": "https://www.youtube.com/results?search_query=smells+like+teen+spirit+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "A Palhetada 'Suja'",
+          "desc": "A magia de Teen Spirit está nos arranhões percussivos entre os acordes (Ghost Notes de Power Chord). Tente replicar esse ritmo solto.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🛸",
+        "day": "Dia 9",
+        "t1": {
+          "time": "10 Min",
+          "task": "Resistência de Power Chords",
+          "desc": "Metrónomo a 120 BPM. Palhetadas apenas para baixo (Downpicking) seguidas em D5. Típico do Blink-182.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: All The Small Things (Blink-182)",
+          "desc": "Treine a música inteira. Apenas Power Chords de C5, G5 e F5 com muita atitude na mão direita.",
+          "pickup": "Chave na Posição 5 (Ponte)",
+          "ytLink": "https://www.youtube.com/results?search_query=all+the+small+things+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Oitavas",
+          "desc": "Toque o Power Chord mas retire o dedo médio. O som de oitava é o que se ouve no pequeno solo instrumental de All The Small Things.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🎸",
+        "day": "Dia 10",
+        "t1": {
+          "time": "10 Min",
+          "task": "Afinação e Setup",
+          "desc": "Afine a guitarra. Encontre o preset perfeito de distorção no Digitech Lab para o show de hoje.",
+          "pickup": "Afinador da Plataforma"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Mini-Show Punk Rock",
+          "desc": "Toque 5 minutos de Brain Stew emendando direto com 5 minutos de Smells Like Teen Spirit junto às backing tracks.",
+          "pickup": "Chave na Posição 5 (Ponte)!"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Relaxamento",
+          "desc": "O downpicking intenso causa tensão. Alongue o antebraço e descanse.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Semana 3: O Desafio das Pestanas e Melodias",
+    "focus": "Acordes Fechados e Riffs de Corda Única",
+    "days": [
+      {
+        "icon": "🧱",
+        "day": "Dia 11",
+        "t1": {
+          "time": "10 Min",
+          "task": "Técnica de Pestana",
+          "desc": "Use o polegar atrás do braço para fazer uma alavanca. Faça a pestana na 5ª casa primeiro (é mais macio) e depois desça até o temido F (Fá Maior).",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=como+fazer+pestana+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Don't Look Back in Anger (Oasis)",
+          "desc": "O pré-refrão utiliza as pestanas de F e Fm. Uma excelente forma de treinar a troca sem pestana (C, G, Am) para com pestana (F).",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=dont+look+back+in+anger+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "O acorde de Fm",
+          "desc": "Remova o dedo médio do acorde de F. A tristeza do Fá menor é linda na transição.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🌴",
+        "day": "Dia 12",
+        "t1": {
+          "time": "10 Min",
+          "task": "Pestanas Menores (Am shape)",
+          "desc": "Faça o formato de Am e coloque uma pestana atrás dele. Ao fazer isso na casa 2, você tem um Bm.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Californication (RHCP)",
+          "desc": "A base dessa música (Am e F) é perfeita para consolidar o dedilhado misturado com batida lenta.",
+          "pickup": "Chave na Posição 1 (Braço) - Limpo e com um pingo de Chorus.",
+          "ytLink": "https://www.youtube.com/results?search_query=californication+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "O Riff Central",
+          "desc": "Tente tirar a pequena melodia que liga os acordes na introdução.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🌊",
+        "day": "Dia 13",
+        "t1": {
+          "time": "10 Min",
+          "task": "Transição de Pestanas",
+          "desc": "Deslize a pestana do Fá (casa 1) para Sol (casa 3). O shape é o mesmo, só muda de lugar.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Creep (Radiohead)",
+          "desc": "A progressão é G, B, C, Cm. Esta música obriga-o a usar pestanas de forma dramática.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=creep+radiohead+guitar+chords"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "As 'Guitarras Mortas' (Dead Notes)",
+          "desc": "No refrão de Creep há os famosos estalos ('ka-chunk'). Pratique abafar com a mão esquerda e bater forte nas cordas.",
+          "pickup": "Chave na Posição 5 (Ponte) + Distorção ligada de repente."
+        }
+      },
+      {
+        "icon": "🎸",
+        "day": "Dia 14",
+        "t1": {
+          "time": "10 Min",
+          "task": "Independência dos Dedos",
+          "desc": "Faça o Riff de 'Come As You Are' (Nirvana). Tocado inteiramente nas duas primeiras cordas graves.",
+          "pickup": "Chave na Posição 1 (Braço) - Digitech Chorus.",
+          "ytLink": "https://www.youtube.com/results?search_query=come+as+you+are+guitar+riff"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Come As You Are (Inteira)",
+          "desc": "Junte o Riff do verso com os acordes abertos do refrão (F#m e A).",
+          "pickup": "Chave na Posição 1 com Chorus para verso, Desliga Chorus e liga Distorção para Refrão."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Cantar e Tocar",
+          "desc": "O riff de Come As You Are é repetitivo, tente cantarolar a melodia vocal por cima do riff sem perder o tempo.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "👑",
+        "day": "Dia 15",
+        "t1": {
+          "time": "10 Min",
+          "task": "Treino de Mudança Mista",
+          "desc": "Misture Power Chords, Acordes Abertos e Pestanas: E -> C5 -> F.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Apresentação da Semana",
+          "desc": "Escolha Californication ou Don't Look Back in Anger para tocar integralmente.",
+          "pickup": "Escolha do Utilizador"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Mapeamento no Roadie Local",
+          "desc": "Guarde os equipamentos usados na música de hoje usando o botão 'Editar' no seu Roadie Local.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Semana 4: A Alma da Guitarra (Solos)",
+    "focus": "Pentatônica, Bends, Hammer-ons e Solos",
+    "days": [
+      {
+        "icon": "🐍",
+        "day": "Dia 16",
+        "t1": {
+          "time": "10 Min",
+          "task": "A Escala Pentatônica (Am, Shape 1)",
+          "desc": "Na 5ª casa. Suba e desça a escala. Use palhetada alternada. Este é o alfabeto dos solos de Rock.",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=pentatonica+shape+1+am"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Californication (O Solo)",
+          "desc": "O solo do John Frusciante é inteiramente baseado na escala que aprendeu. Comece a tirar a primeira frase lentamente.",
+          "pickup": "Chave na Posição 1 (Braço) - Tom morno e lindo.",
+          "ytLink": "https://www.youtube.com/results?search_query=californication+guitar+solo+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Vibrato nas Notas Finais",
+          "desc": "No final de cada frase do solo, trema levemente o dedo para fazer a guitarra cantar (Vibrato).",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🏹",
+        "day": "Dia 17",
+        "t1": {
+          "time": "10 Min",
+          "task": "Ligados (Hammer-ons e Pull-offs)",
+          "desc": "Toque a casa 5 e martele o dedo na casa 7 (sem palhetar de novo). Depois faça o inverso para Pull-offs.",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=hammer+on+pull+off+exercicios"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Thunderstruck (AC/DC) - Intro",
+          "desc": "A intro inteira é baseada em ligados na corda B com a corda solta. Palhete apenas a primeira nota.",
+          "pickup": "Chave na Posição 5 (Ponte) - Distorção rasgada.",
+          "ytLink": "https://www.youtube.com/results?search_query=thunderstruck+intro+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Muting com a Mão Direita",
+          "desc": "Em Thunderstruck, apoie as costas da mão nas outras cordas para que só a corda B soe limpa.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "〰️",
+        "day": "Dia 18",
+        "t1": {
+          "time": "10 Min",
+          "task": "Bends (Chorar as Cordas)",
+          "desc": "Apoie o dedo 3 na casa 7 da corda G, use os dedos 1 e 2 atrás dele para dar força e empurre a corda até atingir o tom da casa 9.",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=tecnica+de+bends+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Smells Like Teen Spirit (Solo)",
+          "desc": "O solo espelha a melodia vocal. Usa bends curtos nas cordas G e B. Aprenda e encaixe os Bends no tempo certo.",
+          "pickup": "Chave na Posição 5 (Ponte) + Distorção Clássica.",
+          "ytLink": "https://www.youtube.com/results?search_query=smells+like+teen+spirit+solo+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Revisão com o Afinador",
+          "desc": "Use o afinador da plataforma: faça o bend na corda G e verifique se o ponteiro chega ao E afinado perfeitamente.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🧭",
+        "day": "Dia 19",
+        "t1": {
+          "time": "10 Min",
+          "task": "Deslizar (Slide)",
+          "desc": "Arraste o dedo da casa 5 para a 7, fundindo o fim do solo de Teen Spirit com a mecânica da Pentatônica.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Californication (Solo Completo)",
+          "desc": "Junte a primeira parte do solo com a segunda. Tente tocar no andamento da música (lentamente).",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Backing Track de Improviso",
+          "desc": "Ligue um acompanhamento de Blues em Am e tente usar Bends, Slides e Hammer-ons livremente na Pentatônica.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🎬",
+        "day": "Dia 20",
+        "t1": {
+          "time": "10 Min",
+          "task": "Treino de Precisão com Metrónomo",
+          "desc": "Metrónomo a 80 BPM. Toque a Pentatônica subindo e descendo em colcheias sem errar.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Gravação de Solo",
+          "desc": "Abra a música original do Californication ou do Nirvana, prepare a pedaleira, ligue a câmara do telemóvel e grave-se tocando o solo.",
+          "pickup": "Configure conforme o seu gosto."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Análise Crítica",
+          "desc": "Assista ao vídeo e veja se os seus bends estão afinados e o seu vibrato tem intenção.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Semana 5: O Toque Fino",
+    "focus": "Dedilhados (Fingerstyle), Arpejos e Baladas",
+    "days": [
+      {
+        "icon": "🖐️",
+        "day": "Dia 21",
+        "t1": {
+          "time": "10 Min",
+          "task": "Largue a Palheta: P.I.M.A",
+          "desc": "P(Polegar)=Baixos, I(Indicador)=Corda G, M(Médio)=Corda B, A(Anelar)=Corda e. Toque as cordas suavemente em C Maior.",
+          "pickup": "Chave na Posição 4 (Braço + Meio) - Para ter aquele som quente de violão.",
+          "ytLink": "https://www.youtube.com/results?search_query=dedilhado+pima+guitarra+violao"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: House of the Rising Sun",
+          "desc": "A música clássica para dedilhados. Acordes: Am, C, D, F. Arpeje as notas usando palheta (Sweep) ou com os dedos.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=house+of+the+rising+sun+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Manter o Acorde Pressionado",
+          "desc": "O segredo do arpejo é deixar todas as cordas soarem juntas. Não levante os dedos da mão esquerda cedo demais.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🌉",
+        "day": "Dia 22",
+        "t1": {
+          "time": "10 Min",
+          "task": "Arpejos de Acordes com Pestana",
+          "desc": "Dedilhe os acordes de Bm e F. Exige muita força e independência na mão esquerda.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Under the Bridge (RHCP) - Intro",
+          "desc": "A intro icônica usa acordes de D e F# com dedilhados focados no formato CAGED que aprenderemos adiante. É difícil, não desista.",
+          "pickup": "Chave na Posição 1 (Braço) ou 4 (Braço + Meio) com leve Chorus.",
+          "ytLink": "https://www.youtube.com/results?search_query=under+the+bridge+intro+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Ligados em Acordes",
+          "desc": "Em Under The Bridge, há 'Hammer-ons' no meio da batida do acorde. Pratique bater o acorde de D martelando a 1ª corda.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🪜",
+        "day": "Dia 23",
+        "t1": {
+          "time": "10 Min",
+          "task": "A Palheta Híbrida (Hybrid Picking)",
+          "desc": "Segure a palheta com o polegar e o indicador, e use os dedos médio e anelar para puxar as cordas de baixo.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Stairway to Heaven (Intro)",
+          "desc": "Am, Am(maj7), Am7, F, G, Am. Use os dedos (PIMA) ou a técnica de Palheta Híbrida para reproduzir os arpejos clássicos.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=stairway+to+heaven+intro+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Limpeza de Dedilhado",
+          "desc": "Faça o arpejo inicial a 50 BPM, as notas não devem se acavalar se você errar a casa.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🌑",
+        "day": "Dia 24",
+        "t1": {
+          "time": "10 Min",
+          "task": "Dedilhados em Cordas Soltas",
+          "desc": "Trabalhe no dedilhado usando as cordas G, B e E soltas intercalando com a corda E grave.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Nothing Else Matters (Metallica)",
+          "desc": "A introdução é tocada APENAS em cordas soltas: E grave e e, B, G finas. Dedilhe arpejando.",
+          "pickup": "Chave na Posição 4 (Braço + Meio) com Chorus + Reverb/Delay.",
+          "ytLink": "https://www.youtube.com/results?search_query=nothing+else+matters+intro+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Explorando Timbres",
+          "desc": "Vá ao Lab Digitech XP, crie um timbre enorme (F90 a F99) e deixe os arpejos soarem.",
+          "pickup": "Variado"
+        }
+      },
+      {
+        "icon": "🏆",
+        "day": "Dia 25",
+        "t1": {
+          "time": "10 Min",
+          "task": "Revisão Geral do Meio do Curso",
+          "desc": "Faça um medley de transições dos covers: Teen Spirit -> Californication -> House of the Rising Sun.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Roadie Local: Domínio",
+          "desc": "Navegue pelo Roadie Local, selecione qualquer música de Nível 1 a 3 e toque-a do seu jeito (com batida ou dedilhado).",
+          "pickup": "Livre"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Meio Caminho Andado!",
+          "desc": "Parabéns, chegou ao dia 25. O seu polegar já tem força e os seus calos suportam pestanas. Limpe a sua guitarra com uma flanela seca.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Semana 6: O Swing e o Groove (Funk Rock)",
+    "focus": "Mão Direita Sincopada, Ghost Notes e Ritmos Rápidos",
+    "days": [
+      {
+        "icon": "🌶️",
+        "day": "Dia 26",
+        "t1": {
+          "time": "10 Min",
+          "task": "Palhetada Contínua em Semicolcheias",
+          "desc": "Metrónomo a 70 BPM. Mão direita sobe e desce sem parar (1-e-e-a). A chave para tocar Funk.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) - Para o som 'estalado'."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Can't Stop (RHCP) - Conceito",
+          "desc": "O famoso riff requer que você abafe todas as outras cordas com a mão esquerda, enquanto bate em TODAS elas agressivamente.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) ou 1 (Braço).",
+          "ytLink": "https://www.youtube.com/results?search_query=cant+stop+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Ghost Notes (Estalos)",
+          "desc": "Treine fazer a batida sem pressionar nenhuma casa, tirando apenas sons percussivos das cordas abafadas.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "🌪️",
+        "day": "Dia 27",
+        "t1": {
+          "time": "10 Min",
+          "task": "Muting Mão Esquerda (Foco Total)",
+          "desc": "Repita Can't Stop. O polegar abafa a 6ª corda, o mindinho abafa as finas. Palhete ferozmente as 6 cordas, mas só a nota alvo soa.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Give It Away (RHCP)",
+          "desc": "Um dos riffs mais viscerais do funk rock. Envolve arrastar (slide) e fazer muito bend com a mão inteira.",
+          "pickup": "Chave na Posição 1 (Braço) ou 5 (Ponte) levemente sujo.",
+          "ytLink": "https://www.youtube.com/results?search_query=give+it+away+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Velocidade na Mão Direita",
+          "desc": "Suba o metrónomo. Toque apenas notas mortas. O pulso tem que estar perfeitamente relaxado ou vai travar.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "❄️",
+        "day": "Dia 28",
+        "t1": {
+          "time": "10 Min",
+          "task": "Hammer-on Múltiplo (Frusciante Style)",
+          "desc": "Treine puxar arpejos rapidamente ligados (Hammer-on em forma de acorde).",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Snow (Hey Oh) (RHCP)",
+          "desc": "Possivelmente o riff mais difícil de resistência. Comece na velocidade tartaruga (40 BPM). G#m, E, B, F#.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=snow+hey+oh+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Palhetada Alternada no Arpejo",
+          "desc": "Em Snow, se não palhetar ESTRITAMENTE para Baixo-Cima, não consegue a velocidade original. Preste atenção.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        }
+      },
+      {
+        "icon": "🌴",
+        "day": "Dia 29",
+        "t1": {
+          "time": "10 Min",
+          "task": "Ritmo de Reggae / Ska (Contratempo)",
+          "desc": "O tempo forte não toca. Só bata para cima (↑) nos tempos fracos (e). Tche... 'TCHAC', Tche... 'TCHAC'.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Santeria (Sublime)",
+          "desc": "Aplique o ritmo Ska nos acordes: E, G#m, C#m, B. Utilize o abafamento soltando o acorde da mão esquerda.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) ou 1 (Braço).",
+          "ytLink": "https://www.youtube.com/results?search_query=santeria+sublime+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Mixar Ritmos",
+          "desc": "Toque 2 compassos de Reggae, mude instantaneamente para 2 compassos de Funk (Semicolcheias soltas).",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "🎬",
+        "day": "Dia 30",
+        "t1": {
+          "time": "10 Min",
+          "task": "Revisão do Groove Mão Direita",
+          "desc": "Passeie pelos riffs de Can't Stop e Santeria. Sinta a diferença do peso da palhetada num estilo e no outro.",
+          "pickup": "Alternar posições."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Backing Track: Funk",
+          "desc": "Vá ao YouTube no Focus Player, pesquise 'Funk Backing Track E minor'. Aplique seus ghost notes improvisados sobre a base.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Alongamento",
+          "desc": "A mão direita de quem toca Funk fica esgotada. Faça alongamentos de punho para evitar tendinite.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Semana 7: Melodias Clássicas (Riffs)",
+    "focus": "Escala Maior, Riffs Famosos e Independência",
+    "days": [
+      {
+        "icon": "🌹",
+        "day": "Dia 31",
+        "t1": {
+          "time": "10 Min",
+          "task": "A Escala Maior (Shape de Sol)",
+          "desc": "Comece na 3ª casa (G). Toque devagar, sentindo as notas felizes (Iônio).",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Sweet Child O' Mine (Guns N' Roses)",
+          "desc": "A intro inconfundível. É essencialmente um arpejo e escala tocados com cruzamento de cordas. Faça lentamente.",
+          "pickup": "Chave na Posição 1 (Braço) - Tone abaixado e Distorção cremosa.",
+          "ytLink": "https://www.youtube.com/results?search_query=sweet+child+o+mine+intro+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Pontaria de Cordas",
+          "desc": "O Riff tem um pulo violento da corda D (Ré) direto para a E fina (e). A precisão da mão direita é tudo aqui.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🏴‍☠️",
+        "day": "Dia 32",
+        "t1": {
+          "time": "10 Min",
+          "task": "Power Chords Rápidos",
+          "desc": "Relembre as palhetadas de distorção forte. E5, D5, A5.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Back in Black (AC/DC)",
+          "desc": "Acordes E, D, A. E o pequeno 'Lick' descendente na Pentatônica. O silêncio entre os acordes é o que dá o peso à música.",
+          "pickup": "Chave na Posição 5 (Ponte) - Overdrive potente (Marshall).",
+          "ytLink": "https://www.youtube.com/results?search_query=back+in+black+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "O Bend do Riff",
+          "desc": "O Riff final da frase (2 casa na corda A) tem um bend subtil, um bend 'de blues' curto, apenas para dar atitude.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🇬🇧",
+        "day": "Dia 33",
+        "t1": {
+          "time": "10 Min",
+          "task": "Palhetada Intercalada Rápida",
+          "desc": "Saltos de corda em ritmo acelerado.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Day Tripper (The Beatles)",
+          "desc": "Um dos Riffs fundadores do rock guiado por escala. Tudo focado na 6ª e 5ª cordas. Tocado com muita presença rítmica.",
+          "pickup": "Chave na Posição 5 (Ponte) ou 2 (Ponte+Meio) Limpo.",
+          "ytLink": "https://www.youtube.com/results?search_query=day+tripper+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Tocar com a Base",
+          "desc": "Coloque a música dos Beatles a tocar no fundo e toque em perfeita uníssono com o George Harrison/John Lennon.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🥁",
+        "day": "Dia 34",
+        "t1": {
+          "time": "10 Min",
+          "task": "Simulando um Baixo",
+          "desc": "Tocar Riffs graves e com som opaco (Palm Mute denso).",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Seven Nation Army (White Stripes)",
+          "desc": "Use um Pedal ou efeito no Digitech (Pitch Shifter/Octaver) para a guitarra soar a baixo, se conseguir. Ou toque na corda Mi e Lá.",
+          "pickup": "Chave na Posição 1 (Braço) com Distorção alta.",
+          "ytLink": "https://www.youtube.com/results?search_query=seven+nation+army+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Ataque com Slide",
+          "desc": "Na música original o Jack White desliza até às notas (Slide). Aplique a técnica de slide (Semana 4) neste riff pesado.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🎧",
+        "day": "Dia 35",
+        "t1": {
+          "time": "10 Min",
+          "task": "O Desafio dos Riffs",
+          "desc": "Crie um Setlist mental: Comece com Sweet Child, emende para Back In Black, depois Day Tripper e termine com Seven Nation Army.",
+          "pickup": "Altere rapidamente os captadores e pedais."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Roadie Local",
+          "desc": "Filtre por Linkin Park ou bandas similares e tente replicar outro Riff que goste da lista.",
+          "pickup": "Livre"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Estudo das Tabs",
+          "desc": "Use os botões automáticos do Focus Player para procurar a tablatura do Riff escolhido e tente lê-lo.",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Semana 8: CAGED e Texturas Atmosféricas",
+    "focus": "Sistema CAGED, Arpejos Adicionados e Delay",
+    "days": [
+      {
+        "icon": "👁️",
+        "day": "Dia 36",
+        "t1": {
+          "time": "10 Min",
+          "task": "Sistema CAGED: Acorde de C Maior",
+          "desc": "Encontre as 5 formas de tocar C Maior ao longo de todo o braço da guitarra (usando as formas abertas adaptadas como pestanas).",
+          "pickup": "Chave na Posição 4 (Braço + Meio)",
+          "ytLink": "https://www.youtube.com/results?search_query=sistema+caged+explicado"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Under The Bridge (Revisão e Verso)",
+          "desc": "O verso usa os acordes de C, G, Am e F em formato de pestana. Tocar arpejando e aplicando Hammer-ons é o segredo do 'estilo Frusciante/Hendrix'.",
+          "pickup": "Chave na Posição 1 (Braço) ou 4 (Braço + Meio).",
+          "ytLink": "https://www.youtube.com/results?search_query=under+the+bridge+verse+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Timbre do Verso",
+          "desc": "Use Compressão e um leve Chorus no Digitech para imitar o timbre clássico desta faixa.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      },
+      {
+        "icon": "🚓",
+        "day": "Dia 37",
+        "t1": {
+          "time": "10 Min",
+          "task": "Alongamento Avançado",
+          "desc": "Colocar os acordes 'Add9' requer que as mãos abram num espaçamento tremendo. Aqueça bem.",
+          "pickup": "N/A"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Every Breath You Take (The Police)",
+          "desc": "O arpejo baseia-se em Power Chords mas com a corda vizinha esticada (Add9). Arpeje Aadd9, F#madd9. Exige imenso da mão esquerda.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) + Chorus.",
+          "ytLink": "https://www.youtube.com/results?search_query=every+breath+you+take+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Metrónomo Rigoroso",
+          "desc": "É um arpejo contínuo em colcheias, a batida 1 tem de estar sempre perfeitamente alinhada.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "🌌",
+        "day": "Dia 38",
+        "t1": {
+          "time": "10 Min",
+          "task": "Tríades e Cordas Agudas",
+          "desc": "Tocar apenas as três últimas cordas para criar melodias flutuantes, esquecendo os baixos.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Pride (In the Name of Love) - U2",
+          "desc": "O mestre das tríades espaciais: The Edge. Acordes de B, A, G e E nas casas finais (casas 7 a 12). Deixe a palheta raspar levemente as cordas abafadas antes da nota soar.",
+          "pickup": "Chave na Posição 2 ou 4 + DIGITECH DELAY RÍTMICO.",
+          "ytLink": "https://www.youtube.com/results?search_query=pride+in+the+name+of+love+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "O Segredo do Delay",
+          "desc": "Configure o Delay na pedaleira para 'colcheia pontuada' (3/16). Ele toca a repetição logo a seguir a cada nota que toca.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "🏔️",
+        "day": "Dia 39",
+        "t1": {
+          "time": "10 Min",
+          "task": "Velocidade na Tríade",
+          "desc": "Faça movimentos contínuos nas cordas agudas, estilo palhetada alternada constante nas três de baixo.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Where The Streets Have No Name (U2)",
+          "desc": "Aplicando o Delay do dia anterior, foque na palhetada contínua de semicolcheias na tríade de D (Ré maior).",
+          "pickup": "Chave na Posição 2 (Ponte + Meio) + Delay e Compressão.",
+          "ytLink": "https://www.youtube.com/results?search_query=where+the+streets+have+no+name+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Balanço",
+          "desc": "Toque fraco, quase roçando na corda. A força deve vir do Delay e Amp, não da sua mão. Cria texturas ricas.",
+          "pickup": "Chave na Posição 2 (Ponte + Meio)"
+        }
+      },
+      {
+        "icon": "🗺️",
+        "day": "Dia 40",
+        "t1": {
+          "time": "10 Min",
+          "task": "Misturando Triades e Arpejos",
+          "desc": "Toque 1 minuto de Every Breath You Take, depois mude o efeito e faça 1 minuto de Pride (U2).",
+          "pickup": "Altere os captadores."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Roadie Local",
+          "desc": "Use a função My Rig e crie um Preset 'U2 Delay' e outro 'Police Chorus'. Isto é essencial para o seu laboratório.",
+          "pickup": "N/A"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Improvisação Espacial",
+          "desc": "Com o seu preset de Delay no Digitech ligado, faça pequenas frases na Escala Pentatônica lentamente. Deixe as repetições ecoarem.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        }
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Semana 9: Timbres Modernos e Nu-Metal",
+    "focus": "Drop D, Distorção Pesada e Harmónicos",
+    "days": [
+      {
+        "icon": "🩸",
+        "day": "Dia 41",
+        "t1": {
+          "time": "10 Min",
+          "task": "Técnica de Harmónicos Naturais",
+          "desc": "Toque a corda levemente sobre o traste 12 (sem apertar). Ao palhetar, retire o dedo criando aquele 'Sino' (Harmónico).",
+          "pickup": "Chave na Posição 1 (Braço) ou 4 (Braço + Meio).",
+          "ytLink": "https://www.youtube.com/results?search_query=harmonicos+naturais+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Numb (Linkin Park)",
+          "desc": "A introdução usa harmónicos nas casas 12 e 7, misturando com uma base de sintetizador (ou Chorus extremo no Digitech).",
+          "pickup": "Chave na Posição 4 (Braço + Meio) + Efeitos Atmosféricos.",
+          "ytLink": "https://www.youtube.com/results?search_query=numb+linkin+park+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Drop de Afinação",
+          "desc": "Afine apenas a 6ª corda de Mi (E) para Ré (D). Chamamos de Drop D. Use o seu afinador da plataforma.",
+          "pickup": "Afinador."
+        }
+      },
+      {
+        "icon": "⛓️",
+        "day": "Dia 42",
+        "t1": {
+          "time": "10 Min",
+          "task": "Power Chords em Drop D",
+          "desc": "A vantagem do Drop D é que pode fazer os Power Chords graves usando apenas 1 dedo em pestana nas casas baixas.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: In The End / One Step Closer",
+          "desc": "Use a facilidade do Drop D para tocar os Riffs clássicos do Linkin Park. Pule da corda solta para pestanas (0 - 0 - 5 - 7 - 0).",
+          "pickup": "Chave na Posição 5 (Ponte) - Distorção Alta e Seca.",
+          "ytLink": "https://www.youtube.com/results?search_query=linkin+park+riffs+drop+d"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Palm Mute Nu-Metal",
+          "desc": "O Nu-Metal vive dos 'chugs' secos. A mão direita precisa abafar muito a corda pesada do D.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🛣️",
+        "day": "Dia 43",
+        "t1": {
+          "time": "10 Min",
+          "task": "Voltar a Standard",
+          "desc": "Volte a afinar a corda D de novo para E. Cuidado para não esticar de mais.",
+          "pickup": "Afinador."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Boulevard of Broken Dreams (Green Day)",
+          "desc": "Uma música muito simples (Fm, G#, D#, Bb), mas o timbre é marcado pelo efeito de 'Tremolo' que corta o som na música.",
+          "pickup": "Chave na Posição 5 (Ponte) + Digitech Tremolo ligado no Lab.",
+          "ytLink": "https://www.youtube.com/results?search_query=boulevard+of+broken+dreams+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Batida Sincronizada",
+          "desc": "Deixe os acordes soarem, o efeito Tremolo fará o ritmo pulsante sozinho.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🎸",
+        "day": "Dia 44",
+        "t1": {
+          "time": "10 Min",
+          "task": "Riff Drop D Acelerado",
+          "desc": "Afine novamente em Drop D. O ritmo de palheta deve ser muito acelerado nas cordas soltas (D, A).",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Música: Everlong (Foo Fighters)",
+          "desc": "Um dos grandes clássicos com Drop D. Uma tempestade de palhetadas alternadas e acordes com pestana (Dmaj7, B, G).",
+          "pickup": "Chave na Posição 5 (Ponte) + Distorção Clássica Rock.",
+          "ytLink": "https://www.youtube.com/results?search_query=everlong+guitar+lesson"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Resistência",
+          "desc": "Everlong é exaustiva. Tente manter as semicolcheias e tocar forte.",
+          "pickup": "Chave na Posição 5 (Ponte)"
+        }
+      },
+      {
+        "icon": "🎧",
+        "day": "Dia 45",
+        "t1": {
+          "time": "10 Min",
+          "task": "O Cover Nu-Metal",
+          "desc": "Toque Numb ou In The End junto à backing track (Youtube no Focus Player).",
+          "pickup": "Chave na Posição 4 (Intro) e Posição 5 (Refrão)."
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Lapidando Acústicos",
+          "desc": "Vá ao Roadie Local e procure acústicos modernos. Configure o seu preset de Clean absoluto.",
+          "pickup": "N/A"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Apreciação Musical",
+          "desc": "Entenda o poder do Lab Digitech XP: efeitos mudam o gênero de uma música. Guarde os seus presets de Delay (U2), Tremolo (Green Day) e Heavy (Linkin Park).",
+          "pickup": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Semana 10: O Músico Completo (Performance Final)",
+    "focus": "Setlist, Domínio Prático e Show de Encerramento",
+    "days": [
+      {
+        "icon": "📚",
+        "day": "Dia 46",
+        "t1": {
+          "time": "10 Min",
+          "task": "Revisão dos Acordes Básicos (Week 1 e 2)",
+          "desc": "Sem olhar, passe por Wonderwall, Knockin' on Heaven's Door e Zombie. Verifique se o seu som é limpo.",
+          "pickup": "Chave na Posição 4 (Braço + Meio)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Revisão Punk e Pestanas (Week 3 e 4)",
+          "desc": "Sem olhar tablatura, jogue os riffs de Smells Like Teen Spirit, Basket Case e Come As You Are.",
+          "pickup": "Chave na Posição 5 (Ponte) c/ Distorção."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Correção de Memória",
+          "desc": "Esqueceu de alguma? Abra o Focus Player e verifique as notas perdidas.",
+          "pickup": "N/A"
+        }
+      },
+      {
+        "icon": "🔥",
+        "day": "Dia 47",
+        "t1": {
+          "time": "10 Min",
+          "task": "Revisão Solos e Escalas (Week 5 e 6)",
+          "desc": "Toque o solo de Californication e emende em uma improvisação de Pentatônica.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Revisão de Dedilhados (Week 7 e 8)",
+          "desc": "Toque Under the Bridge (Verso e Intro) e House of the Rising Sun.",
+          "pickup": "Chave na Posição 4 (Braço + Meio) Clean."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Montando o Setlist",
+          "desc": "Anote as suas 3 ou 4 músicas favoritas deste curso para o grande show do último dia.",
+          "pickup": "N/A"
+        }
+      },
+      {
+        "icon": "🎛️",
+        "day": "Dia 48",
+        "t1": {
+          "time": "10 Min",
+          "task": "Desafio Auditivo: Tirar de Ouvido",
+          "desc": "Escolha qualquer música no Spotify que não sabe. Tente encontrar a primeira nota do refrão na corda E ou A da sua guitarra. É assim que tudo começa.",
+          "pickup": "Chave na Posição 1 (Braço)",
+          "ytLink": "https://www.youtube.com/results?search_query=como+tirar+musica+de+ouvido+guitarra"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "A Dinâmica Total: Meteoro + Tagima",
+          "desc": "Deixe o amplificador Meteoro no som Limpo, o Volume da Tagima no 7, a pedaleira num preset de Crunch. Controle a agressividade só com a mão e o botão de volume.",
+          "pickup": "Transição livre."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Verificação dos Pedais",
+          "desc": "Certifique-se de que os timbres para o Setlist final estão guardados no botão My Rig.",
+          "pickup": "N/A"
+        }
+      },
+      {
+        "icon": "🎥",
+        "day": "Dia 49",
+        "t1": {
+          "time": "10 Min",
+          "task": "Ensaio Geral (Dress Rehearsal)",
+          "desc": "Toque o seu Setlist escolhido na íntegra, com os backing tracks de fundo. Não pare por erros, simule que está num palco de verdade.",
+          "pickup": "Trocas dinâmicas"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "Gravando o Ensaio",
+          "desc": "Grave o áudio/vídeo do ensaio. É muito importante perder o medo da gravação.",
+          "pickup": "N/A"
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "Limpeza de Cordas Final",
+          "desc": "Troque as cordas, se necessário, ou passe a flanela. Amanhã é o dia 50.",
+          "pickup": "N/A"
+        }
+      },
+      {
+        "icon": "🏆",
+        "day": "Dia 50",
+        "t1": {
+          "time": "10 Min",
+          "task": "Aqueça e Sinta a Evolução",
+          "desc": "Faça o exercício Aranha 1-2-3-4 uma última vez neste ciclo. Lembre-se do quanto era difícil no Dia 1 e compare com agora.",
+          "pickup": "Chave na Posição 1 (Braço)"
+        },
+        "t2": {
+          "time": "10 Min",
+          "task": "O GRANDE SHOW",
+          "desc": "Toque o seu Setlist. Abra a primeira Cerveja/Refrigerante, coloque a guitarra pendurada na alça (se costuma treinar sentado) e dê tudo de si.",
+          "pickup": "Atitude Máxima."
+        },
+        "t3": {
+          "time": "5 Min",
+          "task": "A Jornada não Acaba",
+          "desc": "Parabéns. Exportou o seu Backup. Dominou distorção, delays, solos e os clássicos do Roadie Local. Reinicie o ciclo explorando as outras faixas da sua lista. Bem-vindo à Família da Guitarra!",
+          "pickup": "Guarde as suas configurações usando o botão Exportar Progresso."
+        }
+      }
+    ]
+  }
+]

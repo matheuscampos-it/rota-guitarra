@@ -1,0 +1,66 @@
+[
+  { 
+    "id": "chain", 
+    "name": "Cadeia de Efeitos", 
+    "icon": "⛓️", 
+    "short": "A ordem do som.", 
+    "desc": "Tal como usar pedais individuais soltos no chão, o Element XP processa o som da sua guitarra numa ordem rigorosa de estúdio. Compreender isto ajuda a perceber como os timbres são construídos.", 
+    "digitech": "O sinal da guitarra viaja da esquerda para a direita nesta ordem exata:<br><br><b>1. Wah</b><br><b>2. Compressor</b><br><b>3. Amp/Distorção</b><br><b>4. EQ (Equalizador)</b><br><b>5. Noise Gate (Corta-ruído)</b><br><b>6. Modulação (Chorus/Flanger)</b><br><b>7. Delay</b><br><b>8. Reverb</b>" 
+  },
+  { 
+    "id": "amps", 
+    "name": "Amps & Distorção", 
+    "icon": "🎸", 
+    "short": "O motor do rock.", 
+    "desc": "A pedaleira conta com 12 modelos de amplificadores clássicos (Fender Tweed, Vox AC30, Marshall Plexi) e 6 pedais de distorção lendários (Fuzz Face, ProCo RAT, TS9).", 
+    "digitech": "<b>Atalho Rápido (Tone Bank):</b> Prima o botão <b>TONE BANK</b> e rode o botão principal para testar 20 combinações de Amps já pré-equalizadas (do Blues ao Metal).<br><br><b>Ajuste Fino:</b> Prima <b>EDIT</b> até a luz de AMP acender. Rode o botão para escolher o Amp, e clique no próprio botão principal (ele afunda) para alternar entre ajustar o Ganho (Gain) ou o Volume." 
+  },
+  { 
+    "id": "fx", 
+    "name": "Efeitos (Mod & Delay)", 
+    "icon": "🌊", 
+    "short": "Cores e texturas.", 
+    "desc": "Modulações (Chorus, Phaser, Flanger, Tremolo) e Efeitos de Tempo (Delay e Reverb) adicionam profundidade. O Element XP consegue rodar até 9 efeitos em simultâneo.", 
+    "digitech": "<b>Atalho Rápido (FX Bank):</b> Prima o botão <b>FX BANK</b> e rode o botão principal para aceder a 20 combinações prontas de efeitos (ex: Chorus + Delay).<br><br><b>Edição Manual:</b> Use as setas de <b>EDIT</b> para ir até à coluna MOD FX ou DELAY, e rode o botão principal para escolher o tipo exato e configurar o nível." 
+  },
+  { 
+    "id": "drums", 
+    "name": "Bateria Eletrônica", 
+    "icon": "🥁", 
+    "short": "O seu baterista pessoal.", 
+    "desc": "Estudar com uma batida real desenvolve muito mais o seu \"groove\" do que apenas cliques. O pedal tem 45 padrões de bateria embutidos (Rock, Funk, Blues e Metrónomo).", 
+    "digitech": "1. Prima o botão <b>DRUMS</b> para ligar a bateria.<br>2. Use as setas de <b>EDIT</b> para piscar a luz no que quer alterar:<br> - <b>Pattern:</b> Escolhe o ritmo (1 a 45).<br> - <b>Tempo:</b> Ajusta a velocidade (BPM).<br> - <b>Level:</b> Ajusta o volume da bateria face à guitarra." 
+  },
+  { 
+    "id": "scc", 
+    "name": "Simulador de Cabine (SCC)", 
+    "icon": "🎧", 
+    "short": "Para tocar de auscultadores.", 
+    "desc": "Ligar a guitarra diretamente a uns fones de ouvido geralmente resulta num som horrível e agudo. O SCC (Speaker Cabinet Compensation) resolve isto emulando o peso acústico de uma caixa de som real de madeira.", 
+    "digitech": "O SCC ativa-se <b>automaticamente</b> se ligar os seus auscultadores à saída <i>Headphone Output</i> e <b>NÃO</b> tiver nenhum cabo ligado na saída principal <i>Main Output</i>.<br><br>Isto é perfeito para treinar de madrugada: o pedal percebe que está sem amplificador real e simula um para si." 
+  },
+  { 
+    "id": "tuner", 
+    "name": "Afinador & Bypass", 
+    "icon": "🪛", 
+    "short": "Afinação em palco.", 
+    "desc": "Quando está a meio de um concerto, precisa de afinar a guitarra em silêncio. O Bypass desliga todos os efeitos e corta o som para o amplificador, ativando o afinador digital.", 
+    "digitech": "<b>Como usar:</b> Prima os <b>DOIS Footswitches</b> simultaneamente. O ecrã mostrará `bYP` e depois mostrará a nota que está a tocar. <br>Se o ecrã mostrar um ponto à esquerda e à direita da nota, está bem afinado. Prima qualquer pedal para voltar ao som normal." 
+  },
+  { 
+    "id": "exp", 
+    "name": "Pedal de Expressão", 
+    "icon": "🎚️", 
+    "short": "Controlo em tempo real.", 
+    "desc": "Exclusivo da versão XP, o pedal basculante permite controlar o Wah-Wah clássico, criar efeitos de Volume Swell (estilo violino) ou usar o famoso Pitch Shifter/Whammy.", 
+    "digitech": "<b>Calibração (Se o pedal falhar):</b><br>1. Desligue o cabo de energia.<br>2. Prima os <b>DOIS footswitches</b> e ligue a energia sem os largar até ler `PC`.<br>3. Quando ler `tdn`, empurre o pedal totalmente para a frente (ponta do pé) e prima um footswitch.<br>4. Quando ler `tup`, pise no calcanhar totalmente e prima o footswitch. Está calibrado!" 
+  },
+  { 
+    "id": "store", 
+    "name": "Salvar Timbres (Store)", 
+    "icon": "💾", 
+    "short": "Grave a sua obra.", 
+    "desc": "O Digitech tem 100 presets de fábrica (F01 a F100) que servem de base, e 100 slots de usuário (1 a 100) onde pode guardar as suas configurações do Roadie Local.", 
+    "digitech": "<b>Como Guardar:</b><br>1. Criou o seu som? Prima o botão <b>STORE</b> (vai piscar).<br>2. Rode o botão principal para escolher o número do Slot (1 a 100).<br>3. Prima <b>STORE</b> novamente para confirmar.<br><br><i>Dica de Ouro: Para guardar rapidamente no mesmo número onde já estava, basta premir STORE duas vezes rápidas. A tela mostrará `Sd`.</i>" 
+  }
+]
