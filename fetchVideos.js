@@ -1,17 +1,20 @@
 const fs = require('fs');
 const ytSearch = require('yt-search');
 
-// O caminho para o teu ficheiro JSON
 const DB_PATH = './data/roadieDb.json'; 
 
+// ⚠️ MÁGICA AQUI: Mude para 'true' para obrigar o robô a apagar os covers antigos e buscar aulas novas.
+// Quando terminar e quiser adicionar músicas no futuro, mude de volta para 'false'.
+const FORCE_OVERWRITE = true; 
+
 async function updateYouTubeIDs() {
-    console.log("🎸 A afinar as cordas e a iniciar o Robô de Scraping...\n");
+    console.log("🎸 A iniciar o Robô de Scraping (Foco em Aulas e Tutoriais)...\n");
 
     let rawData;
     try {
         rawData = fs.readFileSync(DB_PATH, 'utf-8');
     } catch (err) {
-        console.error("❌ Erro: Não encontrei o roadieDb.json. Verifica se a pasta se chama 'data'.");
+        console.error("❌ Erro: Não encontrei o roadieDb.json.");
         return;
     }
 
@@ -21,29 +24,27 @@ async function updateYouTubeIDs() {
     for (let i = 0; i < roadieDb.length; i++) {
         let song = roadieDb[i];
 
-        // Só procura se a música AINDA NÃO tiver o campo yt_id
-        if (!song.yt_id) {
-            console.log(`A procurar: ${song.artist} - ${song.title}...`);
+        // Só procura se não tiver o ID, OU se estivermos forçando a reescrita (FORCE_OVERWRITE = true)
+        if (!song.yt_id || FORCE_OVERWRITE) {
+            console.log(`A procurar aula de: ${song.artist} - ${song.title}...`);
             
-            // Termo de pesquisa super focado para garantir que vem um cover/aula
-            const query = `${song.artist} ${song.title} guitar cover`;
+            // A NOVA PALAVRA-CHAVE: Focada em ensino. 
+            // Dica: Se preferir apenas professores brasileiros, mude para "como tocar guitarra aula"
+            const query = `${song.artist} ${song.title} guitar lesson tutorial`;
 
             try {
-                // A biblioteca faz a pesquisa no YouTube por trás dos panos
                 const r = await ytSearch(query);
                 
-                // Se encontrar vídeos
                 if (r.videos && r.videos.length > 0) {
-                    // Pega no ID do primeiro vídeo da lista de resultados
+                    // Pega o primeiro resultado (o YouTube prioriza os melhores tutoriais no topo)
                     song.yt_id = r.videos[0].videoId;
                     updatedCount++;
-                    console.log(`   ✅ Encontrado! ID: ${song.yt_id}`);
+                    console.log(`   ✅ Aula encontrada! ID: ${song.yt_id}`);
                 } else {
-                    console.log(`   ⚠️ Nenhum vídeo encontrado.`);
+                    console.log(`   ⚠️ Nenhum tutorial encontrado.`);
                 }
 
-                // Pausa crucial de 1.5 segundos entre cada pesquisa
-                // Isto evita que o YouTube bloqueie o nosso "robô"
+                // Pausa crucial de 1.5s para não ser bloqueado
                 await new Promise(resolve => setTimeout(resolve, 1500));
 
             } catch (error) {
@@ -52,13 +53,11 @@ async function updateYouTubeIDs() {
         }
     }
 
-    // Guarda as alterações de volta no teu ficheiro JSON
     if (updatedCount > 0) {
-        // O "null, 2" garante que o teu JSON continua bonito e fácil de ler
         fs.writeFileSync(DB_PATH, JSON.stringify(roadieDb, null, 2));
-        console.log(`\n💾 Arquivo salvo! ${updatedCount} novas músicas foram atualizadas no roadieDb.json.`);
+        console.log(`\n💾 Arquivo salvo! ${updatedCount} aulas fantásticas foram injetadas no seu JSON.`);
     } else {
-        console.log("\n✨ O teu banco de dados já está a 100%. Nenhuma música nova para procurar.");
+        console.log("\n✨ Nenhuma alteração foi necessária.");
     }
 }
 

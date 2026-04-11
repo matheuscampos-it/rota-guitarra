@@ -374,7 +374,7 @@ function openFocusPlayer(songTitle) {
     } else {
         // Fallback Inteligente: Se for uma música nova que você ainda não rodou o script,
         // ou se o robô falhou, usamos o truque do DuckDuckGo para abrir o primeiro vídeo automaticamente.
-        const ytQuery = encodeURIComponent(`${song.artist || ''} ${song.title} guitar cover`);
+        const ytQuery = encodeURIComponent(`${song.artist || ''} ${song.title} guitar lesson`);
         ytLinkBtn.href = `https://duckduckgo.com/?q=!yt+${ytQuery}`;
     }
 
